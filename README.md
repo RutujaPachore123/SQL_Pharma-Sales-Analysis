@@ -4,8 +4,11 @@ The Pharma Sales Analysis project is an innovative data-driven application desig
 
 **Features**
 •	**Comprehensive Sales Reports**: Generate detailed reports to analyze sales performance by product, category, and customer demographics, enabling informed business strategies.
+
 •	**Dynamic Inventory Management**: Monitor real-time stock levels of pharmaceutical products, reducing the risk of stockouts and ensuring optimal inventory turnover.
+
 •	**Customer Insight**s: Gain valuable understanding of customer purchasing patterns, helping to tailor marketing strategies and improve customer satisfaction.
+
 •	**Supplier Tracking**: Efficiently manage supplier relationships by linking products to suppliers, ensuring timely restocking and better negotiation power.
 
 **Database Schema**
