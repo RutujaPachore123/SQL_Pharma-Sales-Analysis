@@ -1,8 +1,9 @@
 # SQL_Pharma-Sales-Analysis
-#Project Overview
+
+**Project Overview**
 The Pharma Sales Analysis project is an innovative data-driven application designed to provide pharmaceutical companies with deep insights into their sales performance, inventory management, and customer behavior. By leveraging robust data analytics and SQL queries, this project aims to streamline operations and enhance decision-making processes within the pharmaceutical industry.
 
-#**Features**
+**Features**
 
 •	**Comprehensive Sales Reports**: Generate detailed reports to analyze sales performance by product, category, and customer demographics, enabling informed business strategies.
 
